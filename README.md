@@ -1,4 +1,4 @@
-# Youtube-Automation: YouTube MP3 Downloader - Python Automation
+# YouTube MP3 Downloader - Python Automation
 > This repository contains a Python-based automation tool for downloading MP3 files directly from YouTube videos. It leverages popular library: yt-dlp to streamline the process of extracting audio tracks from YouTube videos and converting them to MP3 format.
 
 ## Features:
