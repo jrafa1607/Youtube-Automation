@@ -1,5 +1,9 @@
-# Youtube-Automation
+# Youtube-Automation: YouTube MP3 Downloader - Python Automation
+> This repository contains a Python-based automation tool for downloading MP3 files directly from YouTube videos. It leverages popular library: yt-dlp to streamline the process of extracting audio tracks from YouTube videos and converting them to MP3 format.
 
-O objetivo desta automação é efetuar o download das músicas do Youtube em Mp3, já particionadas para o sistema de sinal eletrônico da Etec Itaquera II. O sinal eletrônico funciona em conjunto com um timer mecânico que liga, toca o sinal por 1minuto e em seguida, desliga.
-
-O algoritmo em Python faz o download do arquivo mp3 pelo link do youtube fornecido, cria uma cópia sem os metadados com a extensão .new e em seguida, calcula o total de segundos da música. Com o valor total, o algortimo divide a musicas em partes de 52 segundos e as exporta.
+## Features:
+- [x] <b> Batch Download: </b> Download multiple MP3 files from a list of YouTube URLs.
+- [x] <b> High-Quality Conversion: </b> Converts audio to MP3 with customizable bitrate settings.
+- [x] <b> Metadata Support: </b> Automatically tags downloaded MP3 files with video title and artist information.
+- [x] <b> User-Friendly Interface: </b> Simple command-line interface for easy usage.
+- [x] <b> Cross-Platform: </b> Works on Windows, macOS, and Linux.
